@@ -37,6 +37,10 @@ public class HeartOfLifeMod implements ModInitializer {
             content.add(HeartItems.HEART);
         });
 
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {
+            content.add(HeartItems.HEART_FRAGMENT);
+        });
+
         UseItemCallback.EVENT.register((player, world, hand) -> {
             if (player.getStackInHand(hand).getItem() == HeartItems.HEART) {
                 if (!world.isClient() && player instanceof ServerPlayerEntity serverPlayer) {

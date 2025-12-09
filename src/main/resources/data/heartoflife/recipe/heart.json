@@ -1,20 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "combat",
+  "category": "misc",
   "pattern": [
-    "dnd",
-    "tht",
-    "dnd"
+    " f ",
+    "fhf",
+    " f "
   ],
   "key": {
-    "d": [
-      "minecraft:diamond_block"
-    ],
-    "n": [
-      "minecraft:netherite_ingot"
-    ],
-    "t": [
-      "minecraft:totem_of_undying"
+    "f": [
+      "heartoflife:heart_fragment"
     ],
     "h": [
       "minecraft:heart_of_the_sea"

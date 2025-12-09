@@ -14,9 +14,8 @@ public class HeartItem extends Item {
 
     @Override
     public Text getName(ItemStack stack) {
-        
         MutableText text = (MutableText) super.getName(stack);
-        text.styled(style -> style.withColor(Formatting.YELLOW));
+        text.styled(style -> style.withColor(Formatting.RED));
         return text;
     }
 }
