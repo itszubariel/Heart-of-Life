@@ -36,7 +36,7 @@ D N D
 
 ## Installation
 
-1. Download the mod JAR from the releases page.
+1. Download the mod JAR from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/hol) or [Modrinth](https://modrinth.com/mod/hol).
 2. Place the JAR in your `mods` folder for Minecraft with Fabric.
 3. Launch Minecraft.
 
