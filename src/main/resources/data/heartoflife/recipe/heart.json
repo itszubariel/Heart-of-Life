@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "dnd",
+    "tht",
+    "dnd"
+  ],
+  "key": {
+    "d": [
+      "minecraft:diamond_block"
+    ],
+    "n": [
+      "minecraft:netherite_ingot"
+    ],
+    "t": [
+      "minecraft:totem_of_undying"
+    ],
+    "h": [
+      "minecraft:heart_of_the_sea"
+    ]
+  },
+  "result": {
+    "id": "heartoflife:heart",
+    "count": 1
+  }
+}
