@@ -42,18 +42,18 @@ All Heart of Life items appear inside their **own custom creative category**.
 
 ## 4. Advancements
 Includes themed advancements for progression:
-- Acquiring a fragment
-- Crafting a Heart of Life
-- Using a heart
-- Reaching max hearts
-- Dropping to one heart
-- Collecting many hearts
+- Acquiring a fragment  
+- Crafting a Heart of Life  
+- Using a heart  
+- Reaching max hearts  
+- Dropping to one heart  
+- Collecting many hearts  
 
 ---
 
 ## Installation
-1. Download the mod JAR.
-2. Place it in your `mods` folder (Fabric).
+1. Download the mod JAR.  
+2. Place it in your `mods` folder (Fabric).  
 3. Launch Minecraft.
 
 ---
