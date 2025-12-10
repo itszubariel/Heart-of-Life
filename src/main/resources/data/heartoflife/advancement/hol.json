@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "id": "heartoflife:heart" },
+    "title": { "text": "Heart of Life" },
+    "description": { "text": "The path to reclaiming your vitality begins." },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "background": "minecraft:block/gray_concrete_powder"
+  },
+  "criteria": {
+    "any_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

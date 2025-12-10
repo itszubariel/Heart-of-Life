@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:barrier" },
+    "title": "Immortal",
+    "description": "Reach full hearts.",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "heartoflife:whole_again",
+  "criteria": {
+    "immortal": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

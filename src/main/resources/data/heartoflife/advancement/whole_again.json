@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:nether_star" },
+    "title": "Whole Again",
+    "description": "Use a Heart of Life.",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "heartoflife:first_heart",
+  "criteria": {
+    "use_heart": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

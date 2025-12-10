@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": { "id": "heartoflife:heart" },
+    "title": "First Heart",
+    "description": "Craft your first Heart of Life.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "heartoflife:shattered",
+  "criteria": {
+    "craft_heart": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
+

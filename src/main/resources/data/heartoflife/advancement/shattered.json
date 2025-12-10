@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "id": "heartoflife:heart_fragment" },
+    "title": "Shattered",
+    "description": "Pick up a Heart Fragment.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "heartoflife:hol",
+  "criteria": {
+    "get_fragment": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

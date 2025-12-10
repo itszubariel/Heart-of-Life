@@ -21,13 +21,13 @@ public class HeartItems {
 
     public static final Identifier HEART_FRAGMENT_ID = Identifier.of("heartoflife", "heart_fragment");
     public static final RegistryKey<Item> HEART_FRAGMENT_KEY = RegistryKey.of(RegistryKeys.ITEM, HEART_FRAGMENT_ID);
-    public static final Item HEART_FRAGMENT = new Item(
+    public static final Item HEART_FRAGMENT = new HeartFragmentItem(
             new Item.Settings()
                     .registryKey(HEART_FRAGMENT_KEY)
                     .maxCount(16)
                     .fireproof()
-                    .rarity(Rarity.UNCOMMON)
     );
+
 
     public static void registerItems() {
         Registry.register(Registries.ITEM, HEART_KEY, HEART);

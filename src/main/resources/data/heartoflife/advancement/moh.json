@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:dragon_head" },
+    "title": "Master of Hearts",
+    "description": "Get a full Inventory of Hearts.",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "heartoflife:hol",
+  "criteria": {
+    "master_of_hearts": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
