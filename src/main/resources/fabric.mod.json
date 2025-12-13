@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "heartoflife",
-  "version": "1.3.1",
+  "version": "1.0.4",
   "name": "Heart of Life",
   "description": "A single-player heart progression mod where you lose a permanent heart on death and regain hearts by crafting rare Heart Fragments into a Heart of Life. Features max heart limits, custom recipes, and balanced progression inspired by Lifesteal.",
   "authors": [
