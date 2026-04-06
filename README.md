@@ -3,6 +3,9 @@
 A simple heart progression system inspired by Lifesteal, designed for single-player Minecraft.  
 Lose hearts when you die. Regain them by crafting and using heart-based items.
 
+> **Want heart-themed tools, weapons, and armor?**  
+> Check out the official addon: **[Heart of Life Additions](https://github.com/zubariel/heart-of-life-additions)**
+
 ---
 
 ## Features
@@ -35,31 +38,37 @@ Unlocked automatically once you have:
 
 ---
 
-## 3. Custom Creative Tab
+### 3. Custom Creative Tab
 All Heart of Life items appear inside their **own custom creative category**.
 
 ---
 
-## 4. Advancements
+### 4. Advancements
 Includes themed advancements for progression:
-- Acquiring a fragment  
-- Crafting a Heart of Life  
-- Using a heart  
-- Reaching max hearts  
-- Dropping to one heart  
-- Collecting many hearts  
+- Acquiring a fragment
+- Crafting a Heart of Life
+- Using a heart
+- Reaching max hearts
+- Dropping to one heart
+- Collecting many hearts
 
 ---
 
 ## Installation
-1. Download the mod JAR.  
-2. Place it in your `mods` folder (Fabric).  
+1. Download the mod JAR.
+2. Place it in your `mods` folder (Fabric).
 3. Launch Minecraft.
 
 ---
 
-## Custom Recipes 
-If you want a personalized crafting recipe for the Heart of Life or fragments, I can create one and release a version credited to you. 
+## Addon
+Looking to do more with your hearts?  
+**[Heart of Life Additions](https://github.com/zubariel/heart-of-life-additions)** adds heart-themed tools, weapons, and armor forged through a custom smithing template — built as an official companion to this mod.
+
+---
+
+## Custom Recipes
+If you want a personalized crafting recipe for the Heart of Life or fragments, I can create one and release a version credited to you.
 
 ---
 
