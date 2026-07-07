@@ -4,7 +4,7 @@ A simple heart progression system inspired by Lifesteal, designed for single-pla
 Lose hearts when you die. Regain them by crafting and using heart-based items.
 
 > **Want heart-themed tools, weapons, and armor?**  
-> Check out the official addon: **[Heart of Life Additions](https://github.com/zubariel/heart-of-life-additions)**
+> Check out the official addon: **[Heart of Life Additions](https://github.com/itszubariel/heart-of-life-additions)**
 
 ---
 
@@ -63,7 +63,7 @@ Includes themed advancements for progression:
 
 ## Addon
 Looking to do more with your hearts?  
-**[Heart of Life Additions](https://github.com/zubariel/heart-of-life-additions)** adds heart-themed tools, weapons, and armor forged through a custom smithing template — built as an official companion to this mod.
+**[Heart of Life Additions](https://github.com/itszubariel/heart-of-life-additions)** adds heart-themed tools, weapons, and armor forged through a custom smithing template, built as an official companion to this mod.
 
 ---
 
